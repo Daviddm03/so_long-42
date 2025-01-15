@@ -21,12 +21,22 @@ In summary, so_long is a practical introduction to 2D game development and graph
 
 <h3>How to run</h3>
 
-1 - **Clone the minilibx**
+1 - **Clone my repository**
+```bash
+$ git clone https://github.com/Daviddm03/so_long-42.git
+```
+
+2 - **Navigate to the directory**
+```bash
+$ cd so_long-42
+```
+
+3 - **Clone the minilibx**
 ```bash
 $ git clone https://github.com/42Paris/minilibx-linux minilibx_linux
 ```
 
-2 - **Install the following packages**
+4 - **Install the following packages**
 ```bash
 $ apt install libx11-dev
 apt install libxext-dev
@@ -34,17 +44,13 @@ apt install libbsd-dev
 apt install clang
 ```
 
-3 - **Clone my repository**
-```bash
-$ git clone https://github.com/Daviddm03/so_long-42.git
-```
-
 4 - **Compile the program**
 ```bash
 $ make
 ```
 
-4 - **Run the game**
+5 - **Run the game**
 ```bash
 $ ./so_long map/map_name
 ```
+
