@@ -1,4 +1,4 @@
-# So_long-42
+# So_long-42 👾
 <h3>What is So_long ⁉️</h3>
 The So_long project at 42 is a practical introduction to 2D game development and the use of the MiniLibX graphical library. The goal is to create a small game with simple mechanics where the player must traverse a map, collect items, avoid obstacles, and reach the exit to win. This project teaches fundamental concepts of graphical rendering, event handling, and game logic.
 
